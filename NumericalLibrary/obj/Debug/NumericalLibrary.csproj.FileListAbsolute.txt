@@ -1,0 +1,6 @@
+D:\myCode\CSharpCode\NumericalLibrary\bin\Debug\NumericalLibrary.exe.config
+D:\myCode\CSharpCode\NumericalLibrary\bin\Debug\NumericalLibrary.exe
+D:\myCode\CSharpCode\NumericalLibrary\bin\Debug\NumericalLibrary.pdb
+D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.csprojResolveAssemblyReference.cache
+D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.exe
+D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.pdb
