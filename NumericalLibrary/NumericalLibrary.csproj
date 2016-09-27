@@ -60,7 +60,6 @@
     <Compile Include="LinearAlgebra\MatrixFactorization\HessenBerg.cs" />
     <Compile Include="LinearAlgebra\MatrixFactorization\LUFactorization.cs" />
     <Compile Include="LinearAlgebra\MatrixFactorization\QRFactorization.cs" />
-    <Compile Include="LinearAlgebra\MatrixFactorization\SVD.cs" />
     <Compile Include="LinearAlgebra\MatrixIO\LoadMatrix.cs" />
     <Compile Include="LinearAlgebra\MatrixIO\WriteMatrix.cs" />
     <Compile Include="LinearAlgebra\Vectors\Vector.cs" />

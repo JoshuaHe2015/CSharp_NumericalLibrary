@@ -4,3 +4,8 @@ D:\myCode\CSharpCode\NumericalLibrary\bin\Debug\NumericalLibrary.pdb
 D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.csprojResolveAssemblyReference.cache
 D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.exe
 D:\myCode\CSharpCode\NumericalLibrary\obj\Debug\NumericalLibrary.pdb
+D:\MyRepo\CSharp_NumericalLibrary\NumericalLibrary\bin\Debug\NumericalLibrary.exe.config
+D:\MyRepo\CSharp_NumericalLibrary\NumericalLibrary\bin\Debug\NumericalLibrary.exe
+D:\MyRepo\CSharp_NumericalLibrary\NumericalLibrary\bin\Debug\NumericalLibrary.pdb
+D:\MyRepo\CSharp_NumericalLibrary\NumericalLibrary\obj\Debug\NumericalLibrary.exe
+D:\MyRepo\CSharp_NumericalLibrary\NumericalLibrary\obj\Debug\NumericalLibrary.pdb
